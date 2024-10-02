@@ -1,5 +1,5 @@
 # OklathonCoffeeShop
-CoffeeShop website built by the Hackathon How-to class at Oklathon Oct 2024
+CoffeeShop website built by the Hackathon How-to class at Oklathon Oct 2024     
 
 
 # Inspiration
